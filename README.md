@@ -5,4 +5,7 @@ PC Build
 
 About Me
 
+## I'm a Begginer Game Developer
+
 Languages and Tools
+![Flutter](https://img.shields.io/badge/C++-blue)
