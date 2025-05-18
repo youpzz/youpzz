@@ -8,6 +8,6 @@ About Me
 ## I'm a Begginer Game Developer
 
 ### Languages and Tools
-![Flutter](https://img.shields.io/badge/C++-blue)
+<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
-![Flutter](https://img.shields.io/badge/C-cyan)
+<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
