@@ -9,5 +9,5 @@ About Me
 
 ### Languages and Tools
 ![Flutter](https://img.shields.io/badge/C++-blue)
-![Flutter](https://img.shields.io/badge/[C#]-purple)
+![Flutter]([https://img.shields.io/badge/[C#]-purple](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white))
 ![Flutter](https://img.shields.io/badge/C-cyan)
