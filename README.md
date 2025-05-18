@@ -1,4 +1,4 @@
-[![Header](https://github.com/youpzz/youpzz/blob/main/assets/logo.png)](https://t.me/youpzz)
+[![Header](https://github.com/youpzz/youpzz/blob/main/assets/banner.jpg)](https://t.me/youpzz)
 
 About Me
 
