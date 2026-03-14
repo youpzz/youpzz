@@ -1,4 +1,4 @@
-[![Header](https://github.com/youpzz/youpzz/blob/main/assets/banner new.JPG)](https://t.me/youpzz)
+[![Header](https://github.com/youpzz/youpzz/blob/main/assets/banner_long.png)](https://t.me/youpzz)
 
 # youpzdev
 
