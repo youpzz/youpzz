@@ -18,7 +18,7 @@ Middle Unity Developer. Делаю игры и приложения — иног
 
 | | |
 |---|---|
-| [**goofy-pooling**](https://github.com/youpzz/goofy-pooling) | Zero-config object pooling for Unity |
+| [**goofy-pooling**](https://github.com/youpzz/unity-goofy-pooling) | Zero-config object pooling for Unity |
 
 ---
 
