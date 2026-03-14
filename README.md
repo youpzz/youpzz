@@ -11,11 +11,11 @@ C#       ████████████████░░░░  primary l
 
 ---
 
-## What I build
+## Focus
 
-🎮 **Games** — от приколов до полноценных игр  
-📱 **Apps** — мобильные приложения под Android  
-🔧 **Tools** — всякое полезное для Unity
+![Games](https://img.shields.io/badge/🎮_Games-Unity_/_C%23-000000?style=for-the-badge)
+![Apps](https://img.shields.io/badge/📱_Apps-Android-3DDC84?style=for-the-badge&logoColor=white)
+![Tools](https://img.shields.io/badge/🔧_Tools-Open_Source-orange?style=for-the-badge)
 
 ---
 
